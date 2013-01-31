@@ -1,0 +1,17 @@
+body {
+background-image: url('assets/omfgdogs.gif');
+background-repeat: repeat;
+}
+
+#source-link{
+position: absolute;
+bottom: 0;
+right: 0;
+font-size: large;
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-style: oblique;
+}
+
+a:link {color: white;}
+
+a:visited {color: white;}
